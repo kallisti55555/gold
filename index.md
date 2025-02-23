@@ -1,5 +1,5 @@
 ---
-title: Welcome to the Golden Apple Corps!
+Welcome to the Golden Apple Corps!
 ---
-body: v1
+v1
 ---
