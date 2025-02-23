@@ -1,3 +1,8 @@
+---
+title: "Discordianism"
+date: 2025-02-23
+---
+
 The Principia Discordia is the foundational text of Discordianism, a satirical and philosophical religion that worships Eris, the Greek goddess of chaos and discord. It blends absurdity, paradox, and deep metaphysical ideas into a system that challenges conventional beliefs and structures. Here are its core principles:
 
 
