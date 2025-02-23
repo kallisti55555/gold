@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Welcome to the Golden Apple Corps!
 ---
-
+body: v1
